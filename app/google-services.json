@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1059334009224",
+    "project_id": "voicerail-56957",
+    "storage_bucket": "voicerail-56957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059334009224:android:495f7e47af374762f64a3d",
+        "android_client_info": {
+          "package_name": "com.krishnareddy.admin_voicerails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhMDW8Dy4XZ9xozaWHTkYkKRH9JD7cYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059334009224:android:9939a19a915b75e3f64a3d",
+        "android_client_info": {
+          "package_name": "com.krishnareddy.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhMDW8Dy4XZ9xozaWHTkYkKRH9JD7cYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059334009224:android:c29bb805ca1f5196f64a3d",
+        "android_client_info": {
+          "package_name": "com.krishnareddy.voicerails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhMDW8Dy4XZ9xozaWHTkYkKRH9JD7cYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
